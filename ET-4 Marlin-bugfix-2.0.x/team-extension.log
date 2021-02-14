@@ -1,0 +1,73 @@
+2020-06-02T14:12:09.021Z - info:   [31512] *** FOLDER: d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin ***
+2020-06-02T14:12:09.022Z - info:   [31512] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18363; Node 12.8.1)
+2020-06-02T14:12:09.022Z - debug:  [31512] Looking for an External Context at d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin
+2020-06-02T14:12:09.023Z - debug:  [31512] No External Context at d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin
+2020-06-02T14:12:09.044Z - debug:  [31512] Looking for TFVC repository at d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin
+2020-06-02T14:12:09.044Z - debug:  [31512] TFVC Creating Tfvc object with localPath='undefined'
+2020-06-02T14:12:09.045Z - debug:  [31512] Using TFS proxy: 
+2020-06-02T14:12:09.045Z - debug:  [31512] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\TF.exe'
+2020-06-02T14:12:09.046Z - debug:  [31512] TFVC Repository created with repositoryRootFolder='d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin'
+2020-06-02T14:12:09.046Z - debug:  [31512] TFVC Repository.CheckVersion
+2020-06-02T14:12:09.047Z - debug:  [31512] TFVC: tf add -noprompt -?
+2020-06-02T14:12:09.060Z - debug:  [31512] TFVC: spawned new process (duration: 13ms)
+2020-06-02T14:12:09.076Z - debug:  [31512] TFVC: spawned new process (duration: 15ms)
+2020-06-02T14:12:09.444Z - debug:  [31512] TFVC: add exit code: 0 (duration: 397ms)
+2020-06-02T14:12:09.445Z - debug:  [31512] TFVC Minimum required version: 14.102.0
+2020-06-02T14:12:09.445Z - debug:  [31512] TFVC (TF.exe, TF.cmd) version: 14.102.25619.0
+2020-06-02T14:12:09.445Z - debug:  [31512] TFVC Repository.FindWorkspace with localPath='d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin'
+2020-06-02T14:12:09.446Z - debug:  [31512] TFVC: tf workfold -noprompt ********
+2020-06-02T14:12:09.452Z - debug:  [31512] TFVC: spawned new process (duration: 6ms)
+2020-06-02T14:12:09.601Z - debug:  [31512] TFVC: workfold exit code: 100 (duration: 155ms)
+2020-06-02T14:12:09.602Z - debug:  [31512] TFVC errors (via stderr): Unable to determine the source control server.
+
+2020-06-02T14:12:09.602Z - error:  [31512] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2020-06-02T14:12:27.081Z - debug:  [31512] Reinitializing due to onDidChangeConfiguration
+2020-06-02T14:12:27.082Z - debug:  [31512] Polling interval value (minutes): 5
+2020-06-02T14:12:27.082Z - debug:  [31512] Polling interval must be greater than 10 minutes.
+2020-06-02T14:12:27.084Z - info:   [31512] *** FOLDER: d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin ***
+2020-06-02T14:12:27.084Z - info:   [31512] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18363; Node 12.8.1)
+2020-06-02T14:12:27.085Z - debug:  [31512] Looking for an External Context at d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin
+2020-06-02T14:12:27.085Z - debug:  [31512] No External Context at d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin
+2020-06-02T14:12:27.088Z - debug:  [31512] Looking for TFVC repository at d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin
+2020-06-02T14:12:27.088Z - debug:  [31512] TFVC Creating Tfvc object with localPath='undefined'
+2020-06-02T14:12:27.089Z - debug:  [31512] Using TFS proxy: 
+2020-06-02T14:12:27.089Z - debug:  [31512] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\TF.exe'
+2020-06-02T14:12:27.089Z - debug:  [31512] TFVC Repository created with repositoryRootFolder='d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin'
+2020-06-02T14:12:27.090Z - debug:  [31512] TFVC Repository.CheckVersion
+2020-06-02T14:12:27.090Z - debug:  [31512] TFVC: tf add -noprompt -?
+2020-06-02T14:12:27.099Z - debug:  [31512] TFVC: spawned new process (duration: 8ms)
+2020-06-02T14:12:27.138Z - debug:  [31512] TFVC: add exit code: 0 (duration: 48ms)
+2020-06-02T14:12:27.138Z - debug:  [31512] TFVC Minimum required version: 14.102.0
+2020-06-02T14:12:27.138Z - debug:  [31512] TFVC (TF.exe, TF.cmd) version: 14.102.25619.0
+2020-06-02T14:12:27.138Z - debug:  [31512] TFVC Repository.FindWorkspace with localPath='d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin'
+2020-06-02T14:12:27.138Z - debug:  [31512] TFVC: tf workfold -noprompt ********
+2020-06-02T14:12:27.145Z - debug:  [31512] TFVC: spawned new process (duration: 6ms)
+2020-06-02T14:12:27.360Z - debug:  [31512] TFVC: workfold exit code: 100 (duration: 221ms)
+2020-06-02T14:12:27.361Z - debug:  [31512] TFVC errors (via stderr): Unable to determine the source control server.
+
+2020-06-02T14:12:27.361Z - error:  [31512] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2020-06-02T14:13:21.447Z - debug:  [31512] Reinitializing due to onDidChangeConfiguration
+2020-06-02T14:13:21.448Z - debug:  [31512] Polling interval value (minutes): 5
+2020-06-02T14:13:21.448Z - debug:  [31512] Polling interval must be greater than 10 minutes.
+2020-06-02T14:13:21.452Z - info:   [31512] *** FOLDER: d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin ***
+2020-06-02T14:13:21.452Z - info:   [31512] AzureReposVSCode/1.161.0 (VSCode 1.45.1; Windows_NT 10.0.18363; Node 12.8.1)
+2020-06-02T14:13:21.452Z - debug:  [31512] Looking for an External Context at d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin
+2020-06-02T14:13:21.452Z - debug:  [31512] No External Context at d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin
+2020-06-02T14:13:21.459Z - debug:  [31512] Looking for TFVC repository at d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin
+2020-06-02T14:13:21.459Z - debug:  [31512] TFVC Creating Tfvc object with localPath='undefined'
+2020-06-02T14:13:21.460Z - debug:  [31512] Using TFS proxy: 
+2020-06-02T14:13:21.460Z - debug:  [31512] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\TF.exe'
+2020-06-02T14:13:21.460Z - debug:  [31512] TFVC Repository created with repositoryRootFolder='d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin'
+2020-06-02T14:13:21.462Z - debug:  [31512] TFVC Repository.CheckVersion
+2020-06-02T14:13:21.463Z - debug:  [31512] TFVC: tf add -noprompt -?
+2020-06-02T14:13:21.470Z - debug:  [31512] TFVC: spawned new process (duration: 7ms)
+2020-06-02T14:13:21.528Z - debug:  [31512] TFVC: add exit code: 0 (duration: 65ms)
+2020-06-02T14:13:21.529Z - debug:  [31512] TFVC Minimum required version: 14.102.0
+2020-06-02T14:13:21.529Z - debug:  [31512] TFVC (TF.exe, TF.cmd) version: 14.102.25619.0
+2020-06-02T14:13:21.529Z - debug:  [31512] TFVC Repository.FindWorkspace with localPath='d:\Bibliotecas\Documents\ET4\Marlin\davidtgbe\Marlin'
+2020-06-02T14:13:21.529Z - debug:  [31512] TFVC: tf workfold -noprompt ********
+2020-06-02T14:13:21.536Z - debug:  [31512] TFVC: spawned new process (duration: 6ms)
+2020-06-02T14:13:21.781Z - debug:  [31512] TFVC: workfold exit code: 100 (duration: 252ms)
+2020-06-02T14:13:21.782Z - debug:  [31512] TFVC errors (via stderr): Unable to determine the source control server.
+
+2020-06-02T14:13:21.782Z - error:  [31512] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).

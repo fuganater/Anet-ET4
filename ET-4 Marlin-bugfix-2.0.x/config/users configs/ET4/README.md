@@ -1,0 +1,1 @@
+This folder is intented to store ET4 user configurations. If you are looking for an ET4 working configuration, you already have the default one ("Marlin" folder of this project), which is for an ET4 stock (no mods) with TMC2208 drivers.
